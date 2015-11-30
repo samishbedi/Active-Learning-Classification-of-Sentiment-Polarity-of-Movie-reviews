@@ -1,7 +1,7 @@
 To run the model:
 ----------------------------------------------
 1. Open terminal
-2. Install ntlk,matplotlibnumpy, if not installed already using:
+2. Install ntlk,matplotlib, numpy if not installed already using:
 	sudo pip install -U nltk
 3. run the command:
 	python run.py
